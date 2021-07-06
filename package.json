@@ -1,0 +1,25 @@
+{
+  "name": "history-bot",
+  "version": "1.0.0",
+  "description": "Tweets each day what happened on that day X years ago.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippkant/twitter-history-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippkant/twitter-history-bot/issues"
+  },
+  "homepage": "https://github.com/philippkant/twitter-history-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  }
+}
