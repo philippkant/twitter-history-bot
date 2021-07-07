@@ -1,3 +1,5 @@
-#Twitter history bot
+# Twitter history bot
 
-Tweets each day what happened on that day X years ago.
+Twitter bot that tweets about historical events that happened on this date.
+
+https://twitter.com/historyyearsago
